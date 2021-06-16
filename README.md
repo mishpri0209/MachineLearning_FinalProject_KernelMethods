@@ -11,5 +11,5 @@ In the repository , I have implemented Kernalised methods of PCA , LDA , K-means
    Linear Kernel , Polynomial Kernel , Gaussian Kernel , laplacian Kernel .
    
    Comaprison of PCA vs KPCA (On Iris Data set):
-   PCA (Iris):
-   ![PCA_Iris](./Observation/KPCA_iris/KPCA_iris_linear.jpg?raw=true "PCA-Iris")
+   
+   ![PCA on Iris](https://github.com/mishpri0209/MachineLearning_FinalProject_KernelMethods/blob/main/Observations/KPCA_iris/KPCA_iris_linear.JPG)
