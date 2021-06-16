@@ -12,4 +12,6 @@ In the repository , I have implemented Kernalised methods of PCA , LDA , K-means
    
    Comaprison of PCA vs KPCA (On Iris Data set):
    
-   ![PCA on Iris](https://github.com/mishpri0209/MachineLearning_FinalProject_KernelMethods/blob/main/Observations/KPCA_iris/KPCA_iris_linear.JPG)
+   ![PCA on Iris](https://github.com/mishpri0209/MachineLearning_FinalProject_KernelMethods/blob/main/Observations/KPCA_iris/PCA_iris_plt.JPG)
+   
+   ![PCA on Iris](https://github.com/mishpri0209/MachineLearning_FinalProject_KernelMethods/blob/main/Observations/KPCA_iris/KPCA_iris_gaussian_plt.JPG)
