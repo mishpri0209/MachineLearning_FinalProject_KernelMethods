@@ -12,4 +12,4 @@ In the repository , I have implemented Kernalised methods of PCA , LDA , K-means
    
    Comaprison of PCA vs KPCA (On Iris Data set):
    PCA (Iris):
-   ![Alt text](../Observation/KPCA_iris/KPCA_iris_linear.jpg?raw=true "Title")
+   ![PCA_Iris](./Observation/KPCA_iris/KPCA_iris_linear.jpg?raw=true "PCA-Iris")
