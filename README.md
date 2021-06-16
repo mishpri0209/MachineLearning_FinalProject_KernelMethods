@@ -35,6 +35,6 @@ In the repository , I have implemented Kernalised methods of PCA , LDA , K-means
     Comparision of Kmeans and Kernel Kmeans on Wine Data set :
     Kmeans of Wine data set :
     ![Kmeans_wine](https://github.com/mishpri0209/MachineLearning_FinalProject_KernelMethods/blob/main/Observations/kmeans/wine_kmenas.JPG)
-    Kernel Kmeans of Wine data set :
+   
    ![Poly_kmeans_Wine](https://github.com/mishpri0209/MachineLearning_FinalProject_KernelMethods/blob/main/Observations/kmeans/wine_poly.JPG)
     
