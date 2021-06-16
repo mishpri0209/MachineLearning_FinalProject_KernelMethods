@@ -1,5 +1,4 @@
-# MachineLearning_FinalProject_KernelMethods
-Final Project ML-Kernel Methods - PCA , LDA , Kmeans
+# Final Project Machine Learning : Kernel Methods (PCA , LDA , Kmeans)
 Abstract :Standard PCA only allows linear dimensionality reduction. However, if the data has more complicated structures which cannot be well represented in a linear subspace, standard PCA will not be very helpful. kernel PCA allows us to generalize standard PCA to nonlinear dimensionality reduction.
 Similarly,In order to make LDA applicable to nonlinearly structured data, kernel-based methods have been applied. The main idea of kernel-based methods is to map the input data to a feature space by a nonlinear mapping where inner products in the feature space can be computed by a kernel function without knowing the nonlinear mapping explicitly.
 Similarly in case of K means ,a major drawback is that it cannot separate clusters that are non-linearly separable in input space. To resolve this issue, kernel k-means is used where, before clustering, points are mapped to a higher-dimensional feature space using nonlinear function, and then kernel k-means partitions the points by linear separators in the new space.
